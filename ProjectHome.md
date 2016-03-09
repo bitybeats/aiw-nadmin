@@ -1,0 +1,1 @@
+Generic administration plugin for the dedicated servers of the alterIWnet project (http://alteriw.net)
